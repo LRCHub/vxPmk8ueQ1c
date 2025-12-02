@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "メトロシティ",
+  "base_artist": "natori、imase",
+  "createdAt": "2025-12-02T03:16:20.750520Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "メトロシティ",
+      "artist": "natori, imase",
+      "has_synced": true,
+      "path": "select/01_メトロシティ_natori,_imase.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "メトロシティ",
+      "artist": "imase, natori",
+      "has_synced": true,
+      "path": "select/02_メトロシティ_imase,_natori.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "メトロシティ",
+      "artist": "imase",
+      "has_synced": true,
+      "path": "select/03_メトロシティ_imase.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "メトロシティ - Metrocity",
+      "artist": "imase",
+      "has_synced": true,
+      "path": "select/04_メトロシティ_-_Metrocity_imase.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "メトロシティ",
+      "artist": "imase, natori",
+      "has_synced": false,
+      "path": "select/05_メトロシティ_imase,_natori.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "メトロシティ / Metrocity",
+      "artist": "imase",
+      "has_synced": true,
+      "path": "select/06_メトロシティ___Metrocity_imase.lrc"
+    }
+  ]
+}
